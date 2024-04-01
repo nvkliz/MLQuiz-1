@@ -1,3 +1,6 @@
 # MLQuiz-1
  First ML Quiz - UCL Programming for Business Analytics 
-![](https://colab.research.google.com/drive/14Ski43lvv3qCBMwYyq4FRqyrVX2u-X2E?usp=sharing)
+<a target="_blank" href="https://colab.research.google.com/github/nvkliz/MLQuiz-1.git">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
